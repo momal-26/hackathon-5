@@ -1,0 +1,21 @@
+
+.buttons {
+    display: flex;
+    justify-content:start;
+    gap: 20px;
+  }
+.button-help{
+    
+        background-color: #111;
+        color: #fff;
+        border: none;
+        border-radius: 30px;
+        padding: 7.5px 22px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        margin-top: 10px;
+      }
+      .button:hover {
+        background-color: #333;
+      }
+    
